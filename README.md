@@ -6,6 +6,6 @@ O tratamento da mensagem recebida vai depender de cada um.
 
 ## Contribuidores
 
-<a href="https://github.com/DZ1M/EmailMarketing/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=DZ1M/EmailMarketing" />
+<a href="https://github.com/DZ1M/WebHook-Receiver/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=DZ1M/WebHook-Receiver" />
 </a>
